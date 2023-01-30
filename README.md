@@ -1,31 +1,26 @@
 # Project Proposal
 
-Write a proposal for a software product you would like to pursue for the majority of the semester. Make it obvious, interesting, and make the need for it sound convincing.
-
 ## Collaboration
 
-You are welcome to write a proposal with up to 5 other students, if desired. If you do work with others on the proposal, you **must** clearly indicate the names of all the team members in your proposal.
+Will Chen
+Junrui Li
 
 ## Project title
 
-Give your project a nice title.
+WillEats 
 
 ## What and why?
 
-What software system would you like to build this semester, and why? Include a description of what problem the system would solve and why this is important.
+In reality, it often takes a while to go through the menu and order the food during the time with high-volume of customers. In order to improve this situation for both the customers and the resturants, we plan to make a software that improves the efficiency of ordering and payment. 
 
 ## For whom?
 
-Who will this software be for? These people are your end-users or customers.
-
-Do not make software for imaginary users who do not exist - you must have real people as your initial end-users. Tell us who they are. For example, is it for a particular type of business, mass consumer, a campus office, a professor, or friends or family, or ... people just like you.
-
-Understanding who your end-users are, and ideally speaking with some along the way, will help you refine your designs to be suitable for your audience, and understand whether you have succeeded at the end or not.
+The app is for the restaurants that needs to improve their efficiency of ordering and payment or they want to hire less people.
 
 ## How?
 
-A description of what the system will do from an end-user's perspective. Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work.
-
+As a customer, images and price of each dish would be presented as choice. Customers would be able add them into the shopping-cart and make subsequent payment or not(by choice of the restaurant). Past orders can be seen by the specific customer if they have had ordered something before. 
+As a restaurant manager, menus could be updated by mananager as well as the prices. Payment system can be set up. 
 ## Scope
 
-A brief justification that the proposal is neither too easy nor too ambitions for a group of approximately 4 - 6 programmers to undertake in one semester.
+The front-ended app would not be very complex because of the properties of this app is basically simple. However, the back-ended app would require a role assignment to each account that has been created, which makes disegining the database structure a little more complicated because the dataabse would have to corresponds the back-end code.
